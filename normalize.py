@@ -5,3 +5,4 @@ b=np.linalg.norm(a,axis=1,keepdims=True)
 print(a)
 print(b)
 ####这里使用的方法是除以2次范数
+###竖着的方向axis=0，横着方向干axis=1
